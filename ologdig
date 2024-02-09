@@ -1,0 +1,72 @@
+
+; <<>> DiG 9.19.19-1-Debian <<>> 8.8.8.8
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 3421
+;; flags: qr aa rd ra ad; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;8.8.8.8.			IN	A
+
+;; ANSWER SECTION:
+8.8.8.8.		0	IN	A	8.8.8.8
+
+;; Query time: 19 msec
+;; SERVER: 192.168.124.233#53(192.168.124.233) (UDP)
+;; WHEN: Thu Feb 08 23:45:34 EST 2024
+;; MSG SIZE  rcvd: 41
+
+
+; <<>> DiG 9.19.19-1-Debian <<>> 1.1.1.1
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 54996
+;; flags: qr aa rd ra ad; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;1.1.1.1.			IN	A
+
+;; ANSWER SECTION:
+1.1.1.1.		0	IN	A	1.1.1.1
+
+;; Query time: 0 msec
+;; SERVER: 192.168.124.233#53(192.168.124.233) (UDP)
+;; WHEN: Thu Feb 08 23:57:11 EST 2024
+;; MSG SIZE  rcvd: 41
+
+
+; <<>> DiG 9.19.19-1-Debian <<>> 8.8.8.8
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 7039
+;; flags: qr aa rd ra ad; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;8.8.8.8.			IN	A
+
+;; ANSWER SECTION:
+8.8.8.8.		0	IN	A	8.8.8.8
+
+;; Query time: 0 msec
+;; SERVER: 192.168.124.233#53(192.168.124.233) (UDP)
+;; WHEN: Thu Feb 08 23:57:53 EST 2024
+;; MSG SIZE  rcvd: 41
+
+
+; <<>> DiG 9.19.19-1-Debian <<>> 8.8.8.8
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 33157
+;; flags: qr aa rd ra ad; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;8.8.8.8.			IN	A
+
+;; ANSWER SECTION:
+8.8.8.8.		0	IN	A	8.8.8.8
+
+;; Query time: 30 msec
+;; SERVER: 192.168.124.233#53(192.168.124.233) (UDP)
+;; WHEN: Thu Feb 08 23:58:44 EST 2024
+;; MSG SIZE  rcvd: 41
+
